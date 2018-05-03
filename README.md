@@ -1,5 +1,10 @@
 # Rate3 (RTE) ERC-20 Token and Crowdsale
 
+- Link for RTE Token:
+https://etherscan.io/token/0x436f0f3a982074c4a05084485d421466a994fe53
+- Link for RTE Crowdsale:
+https://etherscan.io/address/0x1474943300e182b35211e9ee9b6a00cd71584451
+
 ## Requirements
 - truffle
 - ganache-cli@6.1.0-beta.0
