@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 Rate3 Network Pte Ltd
+Copyright (c) 2018 Rate Network Pte Ltd
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
